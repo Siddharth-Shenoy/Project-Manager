@@ -18,3 +18,5 @@ If you want to access the projectmanager in any folder (which is what it is mean
 cp projectmanager /bin/
 ```
 
+#NOTE
+These source files are currently compilable on g++ for linux hence you have to wait for source files which are available for windows
